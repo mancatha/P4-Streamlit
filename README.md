@@ -8,9 +8,7 @@ The deployment process in data analysis and machine learning is a crucial step t
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| P4-Gradio | Medium |  [ 
-
-https://medium.com/@benmanks2015/the-deployment-of-sales-of-a-retail-store-3733b83f5fb0  ](/) | [Best Article Deployment](/) |
+| P4-Gradio | Medium |  [ https://medium.com/@benmanks2015/the-deployment-of-sales-of-a-retail-store-3733b83f5fb0  ](/) | [Best Article Deployment](/) |
 
 
 ## Project Description
